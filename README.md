@@ -3,15 +3,24 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Furkan;Building+studymode.fun+%F0%9F%93%9A;TypeScript+%7C+React+%7C+Next.js;Shipping+side+projects+for+fun" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Furkan;Video+Editor+%F0%9F%8E%AC+%26+Developer+%F0%9F%92%BB;Building+studymode.fun+%F0%9F%93%9A;TypeScript+%7C+React+%7C+Next.js;Shipping+side+projects+for+fun" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://studymode.fun"><img src="https://img.shields.io/badge/Website-studymode.fun-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/m-furkan-%C3%B6zt%C3%BCrk-43bb933a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/seeok.edits/"><img src="https://img.shields.io/badge/Instagram-seeok.edits-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=justfurkann&style=for-the-badge&color=302b63&label=Profile+Views" />
 </p>
 
 ---
+
+### 👋 About me
+
+- 🎬 Video editor — check out my edits on [@seeok.edits](https://www.instagram.com/seeok.edits/)
+- 💻 Developer who loves building things on the side
+- 📚 Currently working on [studymode.fun](https://studymode.fun)
+- 🤝 Open to collaborations — reach me on [LinkedIn](https://www.linkedin.com/in/m-furkan-%C3%B6zt%C3%BCrk-43bb933a8)
 
 ### 🛠️ Tech stack
 
@@ -46,6 +55,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=justfurkann&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justfurkann/justfurkann/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justfurkann/justfurkann/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/justfurkann/justfurkann/output/github-snake.svg" />
+  </picture>
 </p>
 
 <p align="center">
