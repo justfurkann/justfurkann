@@ -21,7 +21,11 @@
 <h3 align="center">Projects</h3>
 
 <p align="center">
-  <a href="https://studymode.fun"><img src="assets/card-studymode.svg" width="49%" alt="studymode — study app with summaries, flashcards and practice exams" /></a>
+  <a href="https://studymode.fun"><img src="assets/card-studymode.svg" width="98.6%" alt="studymode — study app with summaries, flashcards and practice exams" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/justfurkann/zerotrust"><img src="assets/card-zerotrust.svg" width="49%" alt="ZERO TRUST — troll platformer where nothing can be trusted" /></a>
   <a href="https://github.com/justfurkann/bossturns"><img src="assets/card-bossturns.svg" width="49%" alt="BOSS TURNS — one-button push-your-luck office game" /></a>
 </p>
 
